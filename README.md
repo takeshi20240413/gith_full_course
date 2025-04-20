@@ -1,6 +1,4 @@
 タイトル：Git習得用ファイル
 
-ブランチfunction-A用に1行追加
 
-ブランチfunction-B用に1行追加
-
+ブランチA用に修正（Confrict確認）
